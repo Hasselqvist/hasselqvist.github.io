@@ -1,1 +1,6 @@
-
+---
+layout: archive
+title: "test"
+permalink: /test/
+author_profile: true
+---
