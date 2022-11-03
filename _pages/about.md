@@ -12,7 +12,7 @@ I am a fourth year phd candidate at the ifo center for labor and demographic eco
 
  My research interests are family economics, economics of education, and economics of migration and integration.
 
-Work in progress
+## Work in progress
 ======
 
 * Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment. 
