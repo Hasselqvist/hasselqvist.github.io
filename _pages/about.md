@@ -18,7 +18,7 @@ My research interests are family economics, economics of education, and economic
 
 * Do immigrant children benefit from early school start? 
 
-For more details: [Research](https://hasselqvist.github.io/research/)
+[More details](https://hasselqvist.github.io/research/)
 
 
 ### Contact information
