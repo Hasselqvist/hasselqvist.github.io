@@ -15,6 +15,6 @@ I am a fourth year phd candidate at the ifo center for labor and demographic eco
 Work in progress
 ======
 
-Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment. 
+* Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment. 
 
-Do immigrant children benefit from early school start? 
+* Do immigrant children benefit from early school start? 
