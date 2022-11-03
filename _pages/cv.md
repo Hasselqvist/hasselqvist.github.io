@@ -11,49 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 09/2019 -         Phd. Economics, ifo Institute, University of Munich (LMU)
+* 09/2016 - 06/2018 MSc. Economics, Uppsala University, Uppsala, Sweden
+* 08/2017 - 12/2017 Graduate exchange semester, University of Massachusetts in Amherst, Massachusetts, USA
+* 01/2013 - 06/2016 BSc. Economics, Uppsala University, Uppsala, Sweden
+* 09/2015 - 02/2016 Bachelor exchange semester, Sophia University, Tokyo, Japan
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* since 09/2019 Junior Economist and Doctoral Student, ifo Center for Labor and Demographic Economics
+* 09/2018 - 08/2019 Project Manager, SNS Centre for Business and Policy Studies, Stockholm, Sweden
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Scholarships and external funding
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mitsubishi Corporation Study Scholarship 2015
+* German Research Foundation (DFG) 2021-2024 for project “Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment”
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Fall semester 2016 to spring semester 2018 “Principles of Micro and Macro Economics”, BSc. level course, Department of Economics, Uppsala University, Uppsala, Sweden
+* Fall semester 2021 "The Economics of Immigration and Integration: New Empirical Perspectives", Seminar Kurs (bachelor-level), LMU
