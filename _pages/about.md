@@ -22,11 +22,12 @@ My research interests are family economics, economics of education, and economic
 
 
 ### Contact information
-Address: ifo Institute
+Address: 
 
-         Poschingerstr. 5 
-         
-         81679 München, Germany
+<address>
+  ifo <br /> Institute Pocschingerstr. 5 <br /> 81679 München<br /> Germany
+</address>
+
          
 Email: hasselqvist@ifo.de
 
