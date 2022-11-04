@@ -27,6 +27,6 @@ Address: ifo Institute
          81679 München, Germany
 Email: hasselqvist@ifo.de
 
-More information on [ifo webpage](https://www.ifo.de/en/hasselqvist-a)
+[My ifo webpage](https://www.ifo.de/en/hasselqvist-a)
 
 
