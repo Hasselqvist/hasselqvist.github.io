@@ -27,11 +27,11 @@ Email: hasselqvist@ifo.de
 
 ifo Institute
 
-  Poschingerstr. 5 
-  
-  81679 München
-  
-  Germany
+Poschingerstr. 5 
+
+81679 München
+
+Germany
 
 
 [My ifo webpage](https://www.ifo.de/en/hasselqvist-a)
