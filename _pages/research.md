@@ -10,4 +10,3 @@ Funded by the German Research Foundation (DFG). Find more information [here](htt
 
 
 ### Do immigrant children benefit from early school start?
-Draft coming soon.
