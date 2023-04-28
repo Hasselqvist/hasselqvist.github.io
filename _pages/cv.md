@@ -21,10 +21,14 @@ redirect_from:
 * 09/2018 - 08/2019 Project Manager, SNS Centre for Business and Policy Studies, Stockholm, Sweden
 
 ## Scholarships and external funding
-* Mitsubishi Corporation Study Scholarship 2015
 * German Research Foundation (DFG) 2021-2024 for project “Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment”
+* Mitsubishi Corporation Study Scholarship 2015
+
 
 ## Teaching
-* Fall semester 2016 to spring semester 2018 “Principles of Micro and Macro Economics”, BSc. level course, Department of Economics, Uppsala University, Uppsala, Sweden
+* Spring semester 2023 - bachelor thesis supervision x 2
+* Fall semester 2022 - bachelor thesis supervision
 * Fall semester 2021 "The Economics of Immigration and Integration: New Empirical Perspectives", Seminar Kurs (bachelor-level), LMU
+* Fall semester 2016 to spring semester 2018 “Principles of Micro and Macro Economics”, BSc. level course, Department of Economics, Uppsala University, Uppsala, Sweden
+
 
