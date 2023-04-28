@@ -31,6 +31,6 @@ ifo Institute, Poschingerstr. 5, 81679 München Germany
 
 
 
-I post book reviews and take care of my plants on my instagram [@howshouldonereadabook](https://instagram.com/howshouldonereadabook?igshid=ZDdkNTZiNTM=) 
+On another note, I post book reviews and take care of my plants on my instagram [@howshouldonereadabook](https://instagram.com/howshouldonereadabook?igshid=ZDdkNTZiNTM=) 
 
 
