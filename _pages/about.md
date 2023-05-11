@@ -16,7 +16,7 @@ My research interests are family economics, economics of education, and economic
 
 * Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment. 
 
-* Do immigrant children benefit from early school start? 
+* School starting age, sibling spillovers, and the academic performance of second-generation migrants 
 
 [More details](https://hasselqvist.github.io/research/)
 
