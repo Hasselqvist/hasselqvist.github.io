@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Anna Hasselqvist"
   avatar           : "IFO_MUC_AB_093_cut.jpg"
-  bio              : "Doctoral candidate at the ifo Insitute, University of Munich"
+  bio              : "Doctoral candidate at the ifo Insitute, University of Munich" "photo © ifo Institut | Enno Kapitza"
   location         : "Munich, Germany"
-  employer         : "© ifo Institut | Enno Kapitza"
+  employer         : 
   googlescholar    : 
   email            : "hasselqvist@ifo.de"
   researchgate     : 
