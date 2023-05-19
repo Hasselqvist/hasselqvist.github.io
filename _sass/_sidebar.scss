@@ -86,7 +86,7 @@
     max-width: 200px;
     // border-radius: 50%;
 
-    @include breakpoint($x-large) {
+    @include breakpoint($small) {
       padding: 5px;
       border: 1px solid $border-color;
     }
