@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year phd candidate at the ifo center for labor and demographic economics at the University of Munich. I received both my master and bachelor degree from Uppsala University.
+I am a fourth year phd candidate at the [ifo center](https://www.ifo.de/en) for labor and demographic economics at the [University of Munich](https://www.en.econ.uni-muenchen.de/index.html), and affiliated with [SOFI](https://www.su.se/swedish-institute-for-social-research/) at Stockholm University. I received both my master and bachelor degree from Uppsala University.
 
 My research interests are family economics, economics of education, and economics of migration and integration.
 
