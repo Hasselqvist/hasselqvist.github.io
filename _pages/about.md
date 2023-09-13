@@ -8,15 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year phd candidate at the [ifo Institute](https://www.ifo.de/en) and the [University of Munich](https://www.en.econ.uni-muenchen.de/index.html), and affiliated with [SOFI](https://www.su.se/swedish-institute-for-social-research/) at Stockholm University. I received my masters and bachelors degrees from Uppsala University.
+I am a fourth year phd candidate at the [ifo Institute](https://www.ifo.de/en) and the [University of Munich](https://www.en.econ.uni-muenchen.de/index.html), and affiliated with [SOFI](https://www.su.se/swedish-institute-for-social-research/) at Stockholm University.
 
 My research interests are family economics, economics of education, and economics of migration and integration.
+
+ I received my masters and bachelors degrees from [Uppsala University](https://www.nek.uu.se/?languageId=1).
 
 ## Work in progress
 
 * Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment. 
 
-* School starting age, sibling spillovers, and the academic performance of second-generation migrants 
+* Gender differences and sibling spillovers in migrant families
 
 [More details](https://hasselqvist.github.io/research/)
 
