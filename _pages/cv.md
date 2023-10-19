@@ -26,7 +26,7 @@ redirect_from:
 
 
 ## Teaching
-* Since 2022 bachelor thesis supervision x 3
-* Fall semester 2021 "The Economics of Immigration and Integration: New Empirical Perspectives", Seminar Kurs (bachelor-level), University of Munich
-* Fall semester 2016 to spring semester 2018 “Principles of Micro and Macro Economics”, BSc. level course, Department of Economics, Uppsala University
+* Since 2022 bachelor thesis supervision x 4
+* Fall semester 2021 "The Economics of Immigration and Integration: New Empirical Perspectives", seminar kurs (bachelor-level), University of Munich
+* Fall semester 2016 - spring semester 2018 “Principles of Micro and Macro Economics”, BSc. level course, Department of Economics, Uppsala University
 
