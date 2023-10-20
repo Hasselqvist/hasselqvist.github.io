@@ -16,9 +16,9 @@ My research interests include topics in family economics, economics of education
 
 ## Work in progress
 
-* Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment. 
+* Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment
 
-* Gender differences and sibling spillovers in migrant families
+* Gender Differences and Sibling Spillovers in Migrant Families
 
 [More details](https://hasselqvist.github.io/research/)
 
