@@ -21,6 +21,7 @@ redirect_from:
 * 09/2018 - 08/2019 Project Manager, SNS Centre for Business and Policy Studies, Stockholm, Sweden
 
 ## Scholarships and external funding
+* CESifo Young Ambassador 2024
 * German Research Foundation (DFG) 2021-2024 for project “Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment”
 * Mitsubishi Corporation Study Scholarship 2015
 
