@@ -12,7 +12,7 @@ I am a phd candidate at the [ifo Institute](https://www.ifo.de/en) and the [Univ
 
 In the spring of 2024 I am visiting the [Economics Department](https://economics.ucsd.edu/) at the University of California, San Diego (UCSD).
 
-I do research on Family and Education economics, with a special focus on interventions aimed at improving equal opportunities for children from diverse backgrounds. I am particularly interested in topics related to the integration of migrant families.
+My areas of interest are Family and Education Economics, with a special focus on interventions aimed at improving equal opportunities for children from diverse backgrounds. I am particularly interested in topics related to the integration of migrant families.
 
 
  I received my master's and bachelor's degrees from [Uppsala University](https://www.nek.uu.se/?languageId=1).
