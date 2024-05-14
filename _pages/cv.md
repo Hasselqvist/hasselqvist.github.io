@@ -11,6 +11,7 @@ redirect_from:
 
 ## Education
 * since 09/2019 Phd. Economics, ifo Institute, University of Munich (LMU)
+* 02/2024 - 04/2024 Visiting Phd Student, University of California San Diego (UCSD), Hosts: Prashant Bharadwaj, Gordon Dahl
 * 09/2016 - 06/2018 MSc. Economics, Uppsala University, Uppsala, Sweden
 * 08/2017 - 12/2017 Graduate exchange semester, University of Massachusetts in Amherst, Massachusetts, USA
 * 01/2013 - 06/2016 BSc. Economics, Uppsala University, Uppsala, Sweden
