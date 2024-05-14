@@ -10,8 +10,6 @@ redirect_from:
 
 I am a phd candidate at the [ifo Institute](https://www.ifo.de/en) and the [University of Munich](https://www.en.econ.uni-muenchen.de/index.html), and affiliated with [SOFI](https://www.su.se/swedish-institute-for-social-research/) at Stockholm University.
 
-In the spring of 2024 I am visiting the [Economics Department](https://economics.ucsd.edu/) at the University of California, San Diego (UCSD).
-
 My areas of interest are Family and Education Economics, with a special focus on interventions aimed at improving equal opportunities for children from diverse backgrounds. I am particularly interested in topics related to the integration of migrant families.
 
 
