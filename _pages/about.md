@@ -17,9 +17,11 @@ My areas of interest are Family and Education Economics, with a special focus on
 
 ## Work in progress
 
+* In the Shadow of Brothers: Educational Achievements of Migrant Girls
+
 * Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment
 
-* Gender Differences and Sibling Spillovers in Migrant Families
+
 
 [More details](https://hasselqvist.github.io/research/)
 
