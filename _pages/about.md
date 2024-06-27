@@ -10,8 +10,7 @@ redirect_from:
 
 I am a phd candidate at the [ifo Institute](https://www.ifo.de/en) and the [University of Munich](https://www.en.econ.uni-muenchen.de/index.html), and affiliated with [SOFI](https://www.su.se/swedish-institute-for-social-research/) at Stockholm University.
 
-My areas of interest are Family and Education Economics, with a special focus on interventions aimed at improving equal opportunities for children from diverse backgrounds. I am particularly interested in topics related to the integration of migrant families.
-
+My areas of interest are Family and Education Economics. My work focuses on how children's backgrounds and family dynamics impact their educational performance and development. I am especially interested in the integration of migrant children and families.
 
  I received my master's and bachelor's degrees from [Uppsala University](https://www.nek.uu.se/?languageId=1).
 
