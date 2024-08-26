@@ -20,6 +20,8 @@ My areas of interest are Family and Education Economics. My work focuses on how 
 
 * Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment
 
+* Linguistic Distance and the Gender Gap in Education
+
 
 
 [More details](https://hasselqvist.github.io/research/)
