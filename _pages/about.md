@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a phd candidate at the [ifo Institute](https://www.ifo.de/en) and the [University of Munich](https://www.en.econ.uni-muenchen.de/index.html), and affiliated with [SOFI](https://www.su.se/swedish-institute-for-social-research/) at Stockholm University.
+I am a phd candidate at the [ifo Institute](https://www.ifo.de/en) and the [University of Munich](https://www.en.econ.uni-muenchen.de/index.html), and affiliated with [SOFI](https://www.su.se/swedish-institute-for-social-research/) at Stockholm University. My supervidor is Prof. [Helmut Rainer](https://sites.google.com/ifo.de/hrainer/home) **I will be on the 2024/2025 academic job market.**
 
 My areas of interest are Family and Education Economics. My work focuses on how parental investments, family structure and background impact children's educational performance and development. I am especially interested in the integration of migrant children and families.
 
