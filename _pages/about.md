@@ -24,9 +24,9 @@ Gender-bias in parental investments can have subtle implications for how educati
 ## Work in progress
 
 
-* Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment
+* **Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment**
 
-* Linguistic Distance and the Gender Gap in Education
+* **Linguistic Distance and the Gender Gap in Education**
 
 
 [More details](https://hasselqvist.github.io/research/)
