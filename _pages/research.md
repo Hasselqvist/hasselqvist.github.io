@@ -16,6 +16,7 @@ Gender-bias in parental investments can have subtle implications for how educati
 # Work in progress
 
 * **Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment**
+  
 Funded by the German Research Foundation (DFG). Find more information [here](https://www.ifo.de/en/project/2021-07-01/joint-versus-sole-custody-after-divorce-causal-effects-child-outcomes-and-family). 
 
 * **Linguistic Distance and the Gender Gap in Education**
