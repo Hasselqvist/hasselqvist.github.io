@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-**[Link to CV](https://drive.google.com/file/d/177_YkAIlIHnAVo3mdBEbxHrIpTjy11oF/view)**
+## **[Link to CV](https://drive.google.com/file/d/177_YkAIlIHnAVo3mdBEbxHrIpTjy11oF/view)**
