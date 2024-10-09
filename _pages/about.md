@@ -14,6 +14,10 @@ My areas of interest are Family and Education Economics. My work focuses on how 
 
 **I will be on the 2024/2025 academic job market.**
 
+[Link to CV](https://drive.google.com/file/d/177_YkAIlIHnAVo3mdBEbxHrIpTjy11oF/view?usp=drive_link)
+
+**Contact:** hasselqvist@ifo.de
+
 ## Job market paper
 
 **In the Shadow of Brothers: Educational Achievements of Migrant Girls** [(latest version)](https://drive.google.com/file/d/1VlyNQKRnW4lR3zznOtuTZhGrMk6AjBb1/view?usp=drive_link)
