@@ -15,7 +15,7 @@ My areas of interest are Family and Education Economics. My work focuses on how 
 **I will be on the 2024/2025 academic job market.**
 
 ## Job market paper
-[Latest version](https://drive.google.com/file/d/1VlyNQKRnW4lR3zznOtuTZhGrMk6AjBb1/view?usp=drive_link)
+**[Latest version](https://drive.google.com/file/d/1VlyNQKRnW4lR3zznOtuTZhGrMk6AjBb1/view?usp=drive_link)
 **In the Shadow of Brothers: Educational Achievements of Migrant Girls**
 
 Gender-bias in parental investments can have subtle implications for how education policies affect migrant girls. This study uses a regression discontinuity design to explore how Sweden's school entry policy interacts with family structure to shape migrant girls' educational outcomes. First, I assess the direct impact of late school entry on migrant girls' academic performance, with attention to how this varies depending on the gender of their younger sibling.  Second, I explore sibling spillover effects on migrant girls when an older sibling, either a sister or brother, enters school late.  The findings reveal two key insights: Late school entry benefits migrant girls with younger sisters, but not those with younger brothers. Additionally, spending more time at home with an older brother who enters school late has lasting negative spillover effects on younger sisters' educational outcomes.
