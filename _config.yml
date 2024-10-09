@@ -49,6 +49,9 @@ staticman:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+# I added this myself now to see if it will change the google search to my custom domain instead of github
+<link rel="canonical" href="https://www.annahasselqvist.com"/>
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
