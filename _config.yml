@@ -51,7 +51,11 @@ atom_feed:
 
 # I added this myself now to see if it will change the google search to my custom domain instead of github
 <link rel="canonical" href="https://www.annahasselqvist.com"/>
-
+if ( window.self === window.top ) { 
+    // console.log("not in a frame") 
+       window.location.href = 'https://www.annahasselqvist.com';
+    }
+    
 # SEO Related
 google_site_verification :
 bing_site_verification   :
