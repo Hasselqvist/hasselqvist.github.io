@@ -19,4 +19,6 @@ Gender-bias in parental investments can have subtle implications for how educati
   
 Funded by the German Research Foundation (DFG). Find more information [here](https://www.ifo.de/en/project/2021-07-01/joint-versus-sole-custody-after-divorce-causal-effects-child-outcomes-and-family). 
 
+This project included a large data collection and digitilization of records from the Swedish court system. The script to generate a data structure from text documents is publically available [here](https://github.com/scanessa/custodyproject). 
+
 * **Linguistic Distance and the Gender Gap in Education**
