@@ -10,7 +10,7 @@ redirect_from:
 
 I am a phd candidate at the [ifo Institute](https://www.ifo.de/en) and the [University of Munich](https://www.en.econ.uni-muenchen.de/index.html), and affiliated with [SOFI](https://www.su.se/swedish-institute-for-social-research/) at Stockholm University. My supervisor is Prof. [Helmut Rainer](https://sites.google.com/ifo.de/hrainer/home). I received my master's and bachelor's degrees from [Uppsala University](https://www.nek.uu.se/?languageId=1). In the spring of 2024 I visited the economics department at University of California, San Diego (UCSD).
 
-My areas of interest are Family and Education Economics. My work focuses on how parental investments, family structure and background impact children's educational performance and development. I am especially interested in the integration of migrant children and families.
+My areas of interest are Labor Economics, Economics of Education, and Family Economics. My current work focuses on school policy, parental investment, the integration of migrant children and families, as well as family structure and child custody.
 
 **I will be on the 2024/2025 academic job market.**
 
