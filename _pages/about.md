@@ -12,7 +12,7 @@ I am a phd candidate at the [ifo Institute](https://www.ifo.de/en) and the [Univ
 
 My areas of interest are Labor Economics, Economics of Education, and Family Economics. My current work focuses on school policy, parental investment, the integration of migrant children and families, as well as family structure and child custody.
 
-**I will be on the 2024/2025 academic job market.**
+**I am on the 2024/2025 academic job market.**
 
 [Link to CV](https://drive.google.com/file/d/177_YkAIlIHnAVo3mdBEbxHrIpTjy11oF/view?usp=drive_link)
 
