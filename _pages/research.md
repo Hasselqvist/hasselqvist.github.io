@@ -16,6 +16,8 @@ Gender-bias in parental investments can have subtle implications for how educati
 # Work in progress
 
 * **Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment**
+
+With [Stella Canessa](https://www.ifo.de/en/canessa-s), [Gordon B. Dahl](https://econweb.ucsd.edu/~gdahl/), [Costas Meghir](https://sites.google.com/yale.edu/costasmeghir/home), [Susan Niknami](https://sites.google.com/view/niknamisusan), [Mårten Palme](https://www.su.se/english/profiles/palme-1.181789), [Helmut Rainer](https://sites.google.com/ifo.de/hrainer/home), [Olof Rosenqvist](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Rosenqvist/), [Peng Peng Xiao](https://www.pengpengxiao.com/)
   
 Funded by the German Research Foundation (DFG). Find more information [here](https://www.ifo.de/en/project/2021-07-01/joint-versus-sole-custody-after-divorce-causal-effects-child-outcomes-and-family). 
 
