@@ -25,17 +25,6 @@ My research interests include Labor Economics, the Economics of Education, Migra
 Gender-bias in parental investments can have implications for how education policies affect migrant girls. This study uses a regression discontinuity design to explore how Sweden's school-entry policy interacts with family structure to shape second-generation migrant girls' educational outcomes. First, I assess the direct impact of late school entry on migrant girls' academic performance and how this varies depending on the gender of their younger sibling. Second, I explore sibling spillover effects on migrant girls when an oldest sibling, either a sister or brother, enters school late. The findings reveal two key insights: Late school entry benefits migrant girls with younger sisters, but not those with younger brothers. Additionally, spending more time at home with an oldest brother who enters school late has lasting negative spillover effects on younger sisters' educational outcomes. These negative impacts are specific to migrant girls, with no similar effects for migrant boys or native children. I propose a simple theory to explain these results, highlighting gender bias in parental preferences as a key factor. Moreover, the effects are more pronounced in migrant families with traditional backgrounds and are also reflected in mothers' labor supply decisions when sons, rather than daughters, enter school late.
 
 
-## Work in progress
-
-
-* Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment
-
-* Linguistic Distance and the Gender Gap in Education
-
-
-[More details](https://hasselqvist.github.io/research/)
-
-
 ### Contact information
 
 Email: hasselqvist@ifo.de
