@@ -8,11 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a phd candidate at the [ifo Institute](https://www.ifo.de/en) and the [University of Munich](https://www.en.econ.uni-muenchen.de/index.html), and affiliated with [SOFI](https://www.su.se/swedish-institute-for-social-research/) at Stockholm University. My supervisor is Prof. [Helmut Rainer](https://sites.google.com/ifo.de/hrainer/home). I am of Swedish nationality and received my master's and bachelor's degrees from [Uppsala University](https://www.nek.uu.se/?languageId=1). In the spring of 2024 I visited the economics department at the University of California, San Diego (UCSD).
+I am a phd candidate at the [ifo Institute](https://www.ifo.de/en) and the [University of Munich](https://www.en.econ.uni-muenchen.de/index.html), and affiliated with [SOFI](https://www.su.se/swedish-institute-for-social-research/) at Stockholm University. I am of Swedish nationality and received my master's and bachelor's degrees from [Uppsala University](https://www.nek.uu.se/?languageId=1). 
 
 My research interests include Labor Economics, the Economics of Education, Migration and Family Economics. My current work investigates school performance, parental investment, gender gaps, the integration of migrant children and families, and issues related to family structure and child custody.
 
+In the spring of 2024 I visited the economics department at the University of California, San Diego (UCSD).
+
 **I am on the 2024/2025 academic job market.**
+
+References: [Helmut Rainer](https://sites.google.com/ifo.de/hrainer/home), [Ines Helm](https://sites.google.com/site/ineshelm10), [Gordon B. Dahl](https://econweb.ucsd.edu/~gdahl/)
 
 [Link to CV](https://drive.google.com/file/d/177_YkAIlIHnAVo3mdBEbxHrIpTjy11oF/view?usp=drive_link)
 
