@@ -10,7 +10,7 @@ redirect_from:
 
 I am a phd candidate at the [ifo Institute](https://www.ifo.de/en) and the [University of Munich](https://www.en.econ.uni-muenchen.de/index.html), and affiliated with [SOFI](https://www.su.se/swedish-institute-for-social-research/) at Stockholm University. I am of Swedish nationality and received my master's and bachelor's degrees from [Uppsala University](https://www.nek.uu.se/?languageId=1). 
 
-My research interests include Labor Economics, the Economics of Education, Migration and Family Economics. My current work investigates school performance, parental investment, gender gaps, the integration of migrant children and families, and issues related to family structure and child custody.
+My research interests include Labor Economics, the Economics of Education, Migration and Family Economics. My current work investigates parental investment, gender gaps, the integration of migrant children and families, and issues related to family structure and child custody.
 
 In the spring of 2024 I visited the economics department at the University of California, San Diego (UCSD).
 
