@@ -18,7 +18,7 @@ In the spring of 2024 I visited the economics department at the University of Ca
 
 References: [Helmut Rainer](https://sites.google.com/ifo.de/hrainer/home), [Ines Helm](https://sites.google.com/site/ineshelm10), [Gordon B. Dahl](https://econweb.ucsd.edu/~gdahl/)
 
-**Feel free to contact me at** hasselqvist@ifo.de
+Feel free to contact me at hasselqvist@ifo.de.
 
 ## Job market paper
 
