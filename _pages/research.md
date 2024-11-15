@@ -15,7 +15,7 @@ When parents prioritize investments in sons over daughters, this gender bias can
 
 # Work in progress
 
-**Joint versus Sole Custody after Divorce: Causal Effects on Child Outcomes and Family Environment**
+**Life After Divorce: Effects of Joint Custody on Parents and Children**
 
 <small> with [Stella Canessa](https://www.ifo.de/en/canessa-s), [Gordon B. Dahl](https://econweb.ucsd.edu/~gdahl/), [Costas Meghir](https://sites.google.com/yale.edu/costasmeghir/home), [Susan Niknami](https://sites.google.com/view/niknamisusan), [Mårten Palme](https://www.su.se/english/profiles/palme-1.181789), [Helmut Rainer](https://sites.google.com/ifo.de/hrainer/home), [Olof Rosenqvist](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Rosenqvist/), [Peng Peng Xiao](https://www.pengpengxiao.com/) <small>
 
