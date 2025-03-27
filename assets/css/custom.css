@@ -1,7 +1,7 @@
 /* Resize profile picture in sidebar */
 .sidebar .author-profile {
-  width: 160px;
-  height: 160px;
+  width: 200px;
+  height: 200px;
 }
 
 .sidebar .author-profile img {
