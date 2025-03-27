@@ -8,13 +8,16 @@
   margin: 0;              /* Remove centering */
 }
 
+/* Side bar wider */
 
 @media (min-width: 768px) {
   .sidebar {
     width: 280px;
+    float: left;
   }
 
   .main {
-    padding-left: 280px;
+    margin-left: 300px; /* 280px sidebar + spacing */
+    padding-left: 0;     /* remove existing padding if needed */
   }
 }
