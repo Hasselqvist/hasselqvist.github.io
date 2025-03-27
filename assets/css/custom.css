@@ -9,14 +9,12 @@
 }
 
 
-/* Make sidebar wider, but only on larger screens */
 @media (min-width: 768px) {
   .sidebar {
     width: 280px;
-    flex-shrink: 0;
   }
 
   .main {
-    margin-left: 280px;
+    padding-left: 280px;
   }
 }
