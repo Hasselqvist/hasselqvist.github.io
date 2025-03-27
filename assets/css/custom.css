@@ -10,14 +10,17 @@ author__avatar {
 @media (min-width: 768px) {
   .sidebar {
     width: 260px;
-    position: fixed;       /* fixed so it stays while scrolling */
-    left: 40px;            /* <-- Push sidebar away from the browser edge */
-    top: 40px;
-    padding: 20px;
+    float: left;
+    padding-right: 20px;
   }
 
   .main {
-    margin-left: 320px;    /* 260px sidebar + 40px spacing + 20px padding */
+    margin-left: 0;
     max-width: 800px;
+    float: left;
+  }
+
+  .page {
+    overflow: hidden;
   }
 }
