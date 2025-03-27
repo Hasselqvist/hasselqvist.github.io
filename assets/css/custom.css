@@ -1,25 +1,23 @@
-/* Resize profile picture in sidebar */
-.author__avatar {
-  width: 100% !important;
-  height: auto !important;
-  max-width: 250px;       /* Keeps it from being too huge */
-  border-radius: 8px;     /* Or 0 if you want sharp corners */
-  display: block;
-  margin: 0;              /* Remove centering */
-}
+
 
 /* Side bar wider */
 
 @media (min-width: 768px) {
   .sidebar {
-    width: 280px;
-    position: fixed;
-    top: 0;
-    left: 20px; /* Push sidebar slightly in from the edge */
+    width: 260px;
+    padding-right: 20px;
   }
 
   .main {
-    margin-left: 320px; /* 280px sidebar + 20px left + 20px spacing */
+    padding-left: 280px;
     max-width: 800px;
+  }
+
+  .author__avatar {
+    width: 240px !important;
+    height: auto !important;
+    border-radius: 8px;
+    display: block;
+    margin: 0 auto;
   }
 }
