@@ -7,3 +7,15 @@
   display: block;
   margin: 0;              /* Remove centering */
 }
+
+
+/* Make sidebar wider */
+.sidebar {
+  width: 280px;
+  flex-shrink: 0;
+}
+
+/* Let main content adapt to new sidebar width */
+.main {
+  margin-left: 280px;
+}
