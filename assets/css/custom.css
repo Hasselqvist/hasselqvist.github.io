@@ -1,5 +1,4 @@
-
-.author__avatar {
+author__avatar {
   width: 100% !important;
   max-width: 240px;
   height: auto !important;
@@ -11,17 +10,14 @@
 @media (min-width: 768px) {
   .sidebar {
     width: 260px;
-    float: left;
+    position: absolute; /* or use fixed if you want it to scroll independently */
+    left: 0;
+    top: 0;
+    padding: 20px;
   }
 
   .main {
-    margin-left: 280px;
+    padding-left: 280px; /* width of sidebar + spacing */
     max-width: 800px;
-  }
-}
-
-@media (min-width: 768px) {
-  .page {
-    overflow: hidden; /* clearfix alternative */
   }
 }
