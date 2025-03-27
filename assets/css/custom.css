@@ -10,14 +10,14 @@ author__avatar {
 @media (min-width: 768px) {
   .sidebar {
     width: 260px;
-    position: absolute; /* or use fixed if you want it to scroll independently */
-    left: 0;
-    top: 0;
+    position: fixed;       /* fixed so it stays while scrolling */
+    left: 40px;            /* <-- Push sidebar away from the browser edge */
+    top: 40px;
     padding: 20px;
   }
 
   .main {
-    padding-left: 280px; /* width of sidebar + spacing */
+    margin-left: 320px;    /* 260px sidebar + 40px spacing + 20px padding */
     max-width: 800px;
   }
 }
