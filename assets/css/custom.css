@@ -4,5 +4,6 @@
   height: auto !important; /* keeps the aspect ratio */
   border-radius: 10px;     /* just soft rounded corners */
   display: block;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
