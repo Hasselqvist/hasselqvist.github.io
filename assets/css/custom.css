@@ -13,11 +13,13 @@
 @media (min-width: 768px) {
   .sidebar {
     width: 280px;
-    float: left;
+    position: fixed;
+    left: 0;
+    top: 0;
   }
 
   .main {
-    margin-left: 300px; /* 280px sidebar + spacing */
-    padding-left: 0;     /* remove existing padding if needed */
+    margin-left: 300px;
+    max-width: 800px;
   }
 }
