@@ -1,6 +1,6 @@
 /* Resize profile picture in sidebar */
 .author__avatar {
-  width: 200px !important;
+  width: 300px !important;
   height: auto !important; /* keeps the aspect ratio */
   border-radius: 10px;     /* just soft rounded corners */
   display: block;
