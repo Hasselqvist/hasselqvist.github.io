@@ -1,10 +1,10 @@
 /* Resize profile picture in sidebar */
-.sidebar .author-profile {
+.author-profile {
   width: 200px;
   height: 200px;
 }
 
-.sidebar .author-profile img {
+.author-profile img {
   width: 100%;
   height: auto;
   border-radius: 50%;
