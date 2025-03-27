@@ -1,11 +1,6 @@
 /* Resize profile picture in sidebar */
-.author-profile {
-  width: 200px;
-  height: 200px;
-}
-
-.author-profile img {
-  width: 100%;
-  height: auto;
+.author__avatar {
+  width: 200px !important;
+  height: 200px !important;
   border-radius: 50%;
 }
