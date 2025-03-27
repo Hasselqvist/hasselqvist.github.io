@@ -14,7 +14,7 @@ My current work investigates parental investments and gender gaps, the integrati
 
 In the fall of 2025 I will be joining the [Crime, Labor and Inequality Department](https://www.diw.de/en/diw_01.c.914985.en/crime__labor_and_inequality.html) at [DIW Berlin](https://www.diw.de/en).
 
-You can find my CV [here](https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-globalnav-goto).
+You can find my CV [here](https://drive.google.com/file/d/177_YkAIlIHnAVo3mdBEbxHrIpTjy11oF/view).
 
 ### Contact information
 
