@@ -17,11 +17,13 @@ redirect_from:
 
 ### **Education**
 2019--2025 Ph.D. Economics, LMU Munich
+
 2016--2018 M.Sc. Economics, Uppsala University
+
 2013--2016 B.Sc. Economics, Uppsala University
 
 ### **Research Visits**
 2024 Economics Department, University of California in San Diego
 
-### **Non-adacemic Positions**
+### **Non-academic Positions**
 2018--2019 Project Manager, [SNS Center for Business and Policy Studies](https://www.sns.se/en/)
