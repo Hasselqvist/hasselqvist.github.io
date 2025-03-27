@@ -12,7 +12,7 @@ I am a phd candidate at [LMU Munich](https://www.en.econ.uni-muenchen.de/index.h
 
 My research focuses on Labor Economics, including topics in Education, Family and Migration Economics. My current work investigates parental investments and gender gaps, the integration of migrant children and families, and issues related to family structure and child custody.
 
-In the fall of 2025 I will be joining the (department of Crime, Labor and Inequality)[https://www.diw.de/en/diw_01.c.914985.en/crime__labor_and_inequality.html] at the (DIW)[https://www.diw.de/en].
+In the fall of 2025 I will be joining the [Crime, Labor and Inequality Department](https://www.diw.de/en/diw_01.c.914985.en/crime__labor_and_inequality.html) at [DIW Berlin](https://www.diw.de/en).
 
 
 ### Contact information
