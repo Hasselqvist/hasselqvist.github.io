@@ -5,8 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
+<div style="text-align: justify; text-justify: inter-word;">
 # Job market paper
-
+</div>
 **In the Shadow of Brothers: Unintended Impacts of a School Entry Policy on Migrant Girls** [(latest version)](https://drive.google.com/file/d/1VlyNQKRnW4lR3zznOtuTZhGrMk6AjBb1/view?usp=drive_link)
 
 <div style="text-align: justify; text-justify: inter-word;">
@@ -16,8 +17,10 @@ When parents prioritize investments in sons over daughters, this gender bias can
 
 *Presented at the EALE annual Conference 2024, IZA Summer School 2024, The 14th International Workshop of Education Economics (IWAEE) 2024, CESifo Labor Conference 2024, UCSD phd seminar in spring 2024, CESifo/CES Workshop on the Economics of Children 2023, 1st Workshop on Education Economics and Policy (WEEP) 2023, The 61st Annual ESPE Meeting 2023.*  
 
-# Work in progress
 
+<div style="text-align: justify; text-justify: inter-word;">
+# Work in progress
+</div>
 **Life After Divorce: Effects of Joint Custody on Parents and Children**
 
 <small> with [Stella Canessa]([https://www.ifo.de/en/canessa-s](https://sites.google.com/view/stellacanessa/home)), [Gordon B. Dahl](https://econweb.ucsd.edu/~gdahl/), [Costas Meghir](https://sites.google.com/yale.edu/costasmeghir/home), [Susan Niknami](https://sites.google.com/view/niknamisusan), [Mårten Palme](https://www.su.se/english/profiles/palme-1.181789), [Helmut Rainer](https://sites.google.com/ifo.de/hrainer/home), [Olof Rosenqvist](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Rosenqvist/), [Pengpeng Xiao](https://www.pengpengxiao.com/) <small>
