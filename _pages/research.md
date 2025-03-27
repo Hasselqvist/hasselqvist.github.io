@@ -18,7 +18,7 @@ When parents prioritize investments in sons over daughters, this gender bias can
 
 
 
-# Work in progress
+<h2 style="text-align: center;">Work in Progress</h2>
 
 **Life After Divorce: Effects of Joint Custody on Parents and Children**
 
