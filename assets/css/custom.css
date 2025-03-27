@@ -1,23 +1,21 @@
 
-
-/* Side bar wider */
+.author__avatar {
+  width: 100% !important;
+  max-width: 240px;
+  height: auto !important;
+  border-radius: 8px;
+  display: block;
+  margin: 0; /* No auto-centering */
+}
 
 @media (min-width: 768px) {
   .sidebar {
     width: 260px;
-    padding-right: 20px;
+    float: left;
   }
 
   .main {
-    padding-left: 280px;
+    margin-left: 280px;
     max-width: 800px;
-  }
-
-  .author__avatar {
-    width: 240px !important;
-    height: auto !important;
-    border-radius: 8px;
-    display: block;
-    margin: 0 auto;
   }
 }
