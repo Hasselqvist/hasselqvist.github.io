@@ -4,9 +4,10 @@ author__avatar {
   height: auto !important;
   border-radius: 8px;
   display: block;
-  margin: 0; /* No auto-centering */
+  margin: 0;
 }
 
+/* Side-by-side layout fix */
 @media (min-width: 768px) {
   .sidebar {
     width: 260px;
@@ -15,12 +16,12 @@ author__avatar {
   }
 
   .main {
-    margin-left: 0;
-    max-width: 800px;
     float: left;
+    width: calc(100% - 280px); /* full width minus sidebar */
+    max-width: none;
   }
 
   .page {
-    overflow: hidden;
+    overflow: hidden; /* ensures floats work */
   }
 }
