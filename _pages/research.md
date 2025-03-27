@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-<div style="text-align: center;">
- <h1># Job market paper <h1>
+<div align="center">
+# Job market paper 
 </div>
    
 **In the Shadow of Brothers: Unintended Impacts of a School Entry Policy on Migrant Girls** [(latest version)](https://drive.google.com/file/d/1VlyNQKRnW4lR3zznOtuTZhGrMk6AjBb1/view?usp=drive_link)
