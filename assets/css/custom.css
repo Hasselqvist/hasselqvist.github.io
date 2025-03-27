@@ -1,27 +1,8 @@
-author__avatar {
+.author__avatar {
   width: 100% !important;
   max-width: 240px;
   height: auto !important;
   border-radius: 8px;
   display: block;
   margin: 0;
-}
-
-/* Side-by-side layout fix */
-@media (min-width: 768px) {
-  .sidebar {
-    width: 260px;
-    float: left;
-    padding-right: 20px;
-  }
-
-  .main {
-    float: left;
-    width: calc(100% - 280px); /* full width minus sidebar */
-    max-width: none;
-  }
-
-  .page {
-    overflow: hidden; /* ensures floats work */
-  }
 }
