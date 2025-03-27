@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a phd candidate at [LMU Munich](https://www.en.econ.uni-muenchen.de/index.html) and the [ifo Institute](https://www.ifo.de/en), and affiliated with [SOFI](https://www.su.se/swedish-institute-for-social-research/) at Stockholm University. My research focuses on Labor Economics, including topics on education, family and migration.
+I am a phd candidate at [LMU Munich](https://www.en.econ.uni-muenchen.de/index.html) and the [ifo Institute](https://www.ifo.de/en), and affiliated with [SOFI](https://www.su.se/swedish-institute-for-social-research/) at Stockholm University. I conduct research in Labor Economics, with a focus on education, family, and migration.
 
 My current work investigates parental investments and gender gaps, the integration of migrant children and families, and issues related to family structure and child custody.
 
