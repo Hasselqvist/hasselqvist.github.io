@@ -1,10 +1,9 @@
 /* Resize profile picture in sidebar */
 .author__avatar {
-  width: 250px !important; /* Set your desired width */
-  height: auto !important; /* Maintain aspect ratio */
-  border-radius: 0; /* Ensure the image remains square */
+  width: 100% !important;
+  height: auto !important;
+  max-width: 250px;       /* Keeps it from being too huge */
+  border-radius: 8px;     /* Or 0 if you want sharp corners */
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0;              /* Remove centering */
 }
-
