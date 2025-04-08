@@ -23,7 +23,7 @@ redirect_from:
 2013--2016 B.Sc. Economics, Uppsala University
 
 ### **Research Visits**
-2024 Economics Department, University of California in San Diego
+2024 Economics Department, University of California San Diego (UCSD)
 
 ### **Non-academic Positions**
 2018--2019 Project Manager, [SNS Center for Business and Policy Studies](https://www.sns.se/en/)
