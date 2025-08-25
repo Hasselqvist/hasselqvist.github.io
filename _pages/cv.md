@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-## **[View full CV here]([https://drive.google.com/file/d/177_YkAIlIHnAVo3mdBEbxHrIpTjy11oF/view](https://drive.google.com/file/d/1uVRrS__irDe1SZXT1sMcXV-tvXk6DAto/view?usp=sharing))**
+## **[View full CV here](https://drive.google.com/file/d/1uVRrS__irDe1SZXT1sMcXV-tvXk6DAto/view?usp=drive_link)**
 
 
 ### **Academic Positions**
