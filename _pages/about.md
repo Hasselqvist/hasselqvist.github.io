@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher (six years) in the [Crime, Labor and Inequality Department](https://www.diw.de/en/diw_01.c.914985.en/crime__labor_and_inequality.html) at [DIW Berlin](https://www.diw.de/en), a Senior Research Fellow in the [Center for Economic Policy Analysis (CEPA)](https://www.uni-potsdam.de/de/cepa/about-cepa) at the University of Potsdam, and affiliated with [SOFI](https://www.su.se/swedish-institute-for-social-research/) at Stockholm University. I obtained my PhD in Economics from [LMU Munich](https://www.en.econ.uni-muenchen.de/index.html) and the [ifo Institute](https://www.ifo.de/en) in July 2025. 
+I am a postdoctoral researcher (six years) in the [Crime, Labor and Inequality Department](https://www.diw.de/en/diw_01.c.914985.en/crime__labor_and_inequality.html) at [DIW Berlin](https://www.diw.de/en), and a Senior Research Fellow in the [Center for Economic Policy Analysis (CEPA)](https://www.uni-potsdam.de/de/cepa/about-cepa) at the University of Potsdam. I obtained my PhD in Economics from [LMU Munich](https://www.en.econ.uni-muenchen.de/index.html) and the [ifo Institute](https://www.ifo.de/en) in July 2025. 
 
 I conduct research in labor economics, with a focus on education, family and migration. My current work investigates parental investments and gender gaps, the integration of migrant children and families, and issues related to family structure and child custody.
 
