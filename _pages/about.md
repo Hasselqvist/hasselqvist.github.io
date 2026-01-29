@@ -22,7 +22,3 @@ DIW Berlin, Anton-Wilhelm-Amo-Str. 58, 10117 Berlin
 
 
 
-
-On another note, I post book reviews and take care of my plants on my instagram [@howshouldonereadabook](https://instagram.com/howshouldonereadabook?igshid=ZDdkNTZiNTM=) 
-
-
