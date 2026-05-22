@@ -14,7 +14,7 @@ Academic inequality between migrants and natives is often attributed to family d
 </div>
 
 
-*Presented at SOLE/EALE/AASLE 6th World Labor Conference, the Economics Faculty Research Seminar at University of Innsbruck, EALE annual Conference 2024, IZA Summer School 2024, the 14th International Workshop of Education Economics (IWAEE) 2024, CESifo Labor Conference 2024, UCSD phd seminar in spring 2024, CESifo/CES Workshop on the Economics of Children 2023, 1st Workshop on Education Economics and Policy (WEEP) 2023, The 61st Annual ESPE Meeting 2023.*  
+*Presented at CESifo Labor Conference 2026, Essen Health Economics Seminar, SOLE/EALE/AASLE 6th World Labor Conference, the Economics Faculty Research Seminar at University of Innsbruck, EALE annual Conference 2024, IZA Summer School 2024, the 14th International Workshop of Education Economics (IWAEE) 2024, CESifo Labor Conference 2024, UCSD phd seminar in spring 2024, CESifo/CES Workshop on the Economics of Children 2023, 1st Workshop on Education Economics and Policy (WEEP) 2023, The 61st Annual ESPE Meeting 2023.*  
 
 
 **Life After Divorce: Effects of Joint Custody on Parents and Children**
@@ -25,7 +25,7 @@ Academic inequality between migrants and natives is often attributed to family d
 Custody arrangements are crucial in determining how frequently and in what way children interact with each parent after a divorce, because these potentially translate to investments in children by both parents. This paper explores the causal effects of joint versus sole custody on children's and parents' outcomes. We merge hand-collected data on more than 100,000 custody cases with several registries from Statistics Sweden to create a comprehensive administrative data set containing various child and parental outcomes measures. To identify the casual effects of joint versus sole custody, we leverage the random assignment of custody cases to judges, along with systematic differences in judges' preferences for joint versus sole custody. We demonstrate that pre-determined characteristics of parents and children are uncorrelated with the preferences of the judge handling their case, whereas judges' preferences are highly predictive of the custody ruling in individual cases. Preliminary findings from the paper indicate that shared custody (i) has significant positive effects on children's educational outcomes, (ii) increases fathers' labor market attachment and earnings, and (iii) shows no significant impact on mothers' labor market outcomes.
 </div>
   
-*Presented in the CESifo Labor Conference 2025. Funded by the German Research Foundation (DFG). This project included a large data collection and digitization of records from the Swedish court system. The script to generate a data structure from text documents is publicly available [here](https://github.com/scanessa/custodyproject).*
+*Presented in BiB Workshop on Contemporary Challenges for Parents and Children, the CESifo Labor Conference 2025. Funded by the German Research Foundation (DFG). This project included a large data collection and digitization of records from the Swedish court system. The script to generate a data structure from text documents is publicly available [here](https://github.com/scanessa/custodyproject).*
 
  **Linguistic Distance and the Gender Gap in Education**
 
