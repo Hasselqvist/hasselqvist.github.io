@@ -7,7 +7,7 @@ author_profile: true
 
 <h2 style="text-align: center;">Work in Progress</h2>
    
-**In the Shadow of Brothers: Sibling Spillovers and Educational Outcomes of Migrant Girls**
+**In the Shadow of Brothers: Sibling Spillovers for Second-Generation Migrant Girls**
 
 <div style="text-align: justify; text-justify: inter-word;">
 Academic inequality between migrants and natives is often attributed to family dynamics that are difficult to observe. Siblings provide a way to study them: I estimate the effect of having a high-achieving sibling on the educational outcomes of children in migrant and native families. Using exogenous variation in sibling achievement from Sweden’s school-entry cutoff in a Regression Discontinuity Design, I show that second-generation migrant girls face a unique disadvantage. A high-achieving brother lowers their grades, but a high-achieving sister has a small positive influence. Spillover effects are negligible for boys and native children. Heterogeneity analysis suggests that traditional cultural norms contributes to this disadvantage, while parental labor market integration completely offsets it.
