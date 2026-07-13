@@ -59,17 +59,19 @@ Presented at BiB Workshop on Contemporary Challenges for Parents and Children, t
 <div class="pub-item">
 
 <div class="pub-title">
-**In the Shadow of Brothers: Sibling Spillovers in Migrant Families**
+In the Shadow of Brothers: Sibling Spillovers in Migrant Families
 </div>
 
 <details>
-  <summary><strong>Abstract</strong></summary> 
- <div class="pub-abstract">
-<div style="text-align: justify; text-justify: inter-word;">
+<summary><strong>Abstract</strong></summary> 
+
+<div class="pub-abstract">
+  
 Academic inequality between migrants and natives is often attributed to family dynamics that are difficult to observe. Siblings provide a way to study them: I estimate the effect of having a high-achieving sibling on the educational outcomes of children in migrant and native families. Using exogenous variation in sibling achievement from Sweden’s school-entry cutoff in a Regression Discontinuity Design, I show that second-generation migrant girls face a unique disadvantage. A high-achieving brother lowers their grades, while a high-achieving sister has a small positive influence. Spillover effects are negligible for boys and native children regardless of sibling gender. Heterogeneity analysis suggests that traditional cultural norms contributes to this disadvantage, but parental labor market integration completely offsets it.
+
 </div>
 
-</details><br>
+</details>
 
 <div class="pub-note">
 <em>
@@ -79,9 +81,10 @@ Academic inequality between migrants and natives is often attributed to family d
 
 </div>
 
+<br>
 
 <div class="pub-item">
 
 <div class="pub-title">
- **Linguistic Distance and the Gender Gap in Education**
+ Linguistic Distance and the Gender Gap in Education
 </div>
