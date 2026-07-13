@@ -8,9 +8,7 @@ author_profile: true
 <h2 style="text-align: center;">Working Papers</h2>
 
 **Life After Divorce: Effects of Joint Custody on Parents and Children**
-
 <small> with [Stella Canessa](https://sites.google.com/view/stellacanessa/home), [Gordon B. Dahl](https://econweb.ucsd.edu/~gdahl/), [Costas Meghir](https://sites.google.com/yale.edu/costasmeghir/home), [Susan Niknami](https://sites.google.com/view/niknamisusan), [Mårten Palme](https://www.su.se/english/profiles/palme-1.181789), [Helmut Rainer](https://sites.google.com/ifo.de/hrainer/home), [Olof Rosenqvist](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Rosenqvist/), [Pengpeng Xiao](https://www.pengpengxiao.com/) <small>
-
 [Paper July 2026](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=3949&context=cowles-discussion-paper-series)
 
 <details>
@@ -22,7 +20,7 @@ Custody arrangements are crucial in determining how frequently and in what way c
 
 </details>
   
-*Presented at BiB Workshop on Contemporary Challenges for Parents and Children, the CESifo Labor Conference 2025. Funded by the German Research Foundation (DFG). This project included a large data collection and digitization of records from the Swedish court system. The script to generate a data structure from text documents is publicly available [here](https://github.com/scanessa/custodyproject).*
+<small> *Presented at BiB Workshop on Contemporary Challenges for Parents and Children, the CESifo Labor Conference 2025. Funded by the German Research Foundation (DFG). This project included a large data collection and digitization of records from the Swedish court system. The script to generate a data structure from text documents is publicly available [here](https://github.com/scanessa/custodyproject).* <small>
 
 
 
@@ -31,16 +29,14 @@ Custody arrangements are crucial in determining how frequently and in what way c
 **In the Shadow of Brothers: Sibling Spillovers in Migrant Families**
 
 <details>
-  <summary><strong>Abstract</strong></summary>
-  
+  <summary><strong>Abstract</strong></summary> 
 <div style="text-align: justify; text-justify: inter-word;">
 Academic inequality between migrants and natives is often attributed to family dynamics that are difficult to observe. Siblings provide a way to study them: I estimate the effect of having a high-achieving sibling on the educational outcomes of children in migrant and native families. Using exogenous variation in sibling achievement from Sweden’s school-entry cutoff in a Regression Discontinuity Design, I show that second-generation migrant girls face a unique disadvantage. A high-achieving brother lowers their grades, while a high-achieving sister has a small positive influence. Spillover effects are negligible for boys and native children regardless of sibling gender. Heterogeneity analysis suggests that traditional cultural norms contributes to this disadvantage, but parental labor market integration completely offsets it.
 </div>
 
 </details>
 
-*Presented at CESifo Labor Conference 2026, Essen Health Economics Seminar, SOLE/EALE/AASLE 6th World Labor Conference, the Economics Faculty Research Seminar at University of Innsbruck, EALE annual Conference 2024, IZA Summer School 2024, the 14th International Workshop of Education Economics (IWAEE) 2024, CESifo Labor Conference 2024, UCSD phd seminar in spring 2024, CESifo/CES Workshop on the Economics of Children 2023, 1st Workshop on Education Economics and Policy (WEEP) 2023, The 61st Annual ESPE Meeting 2023.*  
-
+<small> *Presented at CESifo Labor Conference 2026, Essen Health Economics Seminar, SOLE/EALE/AASLE 6th World Labor Conference, the Economics Faculty Research Seminar at University of Innsbruck, EALE annual Conference 2024, IZA Summer School 2024, the 14th International Workshop of Education Economics (IWAEE) 2024, CESifo Labor Conference 2024, UCSD phd seminar in spring 2024, CESifo/CES Workshop on the Economics of Children 2023, 1st Workshop on Education Economics and Policy (WEEP) 2023, The 61st Annual ESPE Meeting 2023.* <small>
 
 
  **Linguistic Distance and the Gender Gap in Education**
