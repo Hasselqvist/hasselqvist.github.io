@@ -56,17 +56,30 @@ Presented at BiB Workshop on Contemporary Challenges for Parents and Children, t
 
 
 <h2 style="text-align: center;">Work in Progress</h2>
+<div class="pub-item">
 
-**In the Shadow of Brothers: Sibling Spillovers in Migrant Families**<br>
+<div class="pub-title">
+**In the Shadow of Brothers: Sibling Spillovers in Migrant Families**
+</div>
+
 <details>
   <summary><strong>Abstract</strong></summary> 
+ <div class="pub-abstract">
 <div style="text-align: justify; text-justify: inter-word;">
 Academic inequality between migrants and natives is often attributed to family dynamics that are difficult to observe. Siblings provide a way to study them: I estimate the effect of having a high-achieving sibling on the educational outcomes of children in migrant and native families. Using exogenous variation in sibling achievement from Sweden’s school-entry cutoff in a Regression Discontinuity Design, I show that second-generation migrant girls face a unique disadvantage. A high-achieving brother lowers their grades, while a high-achieving sister has a small positive influence. Spillover effects are negligible for boys and native children regardless of sibling gender. Heterogeneity analysis suggests that traditional cultural norms contributes to this disadvantage, but parental labor market integration completely offsets it.
 </div>
 
 </details><br>
-<small> *Presented at CESifo Labor Conference 2026, Essen Health Economics Seminar, SOLE/EALE/AASLE 6th World Labor Conference, the Economics Faculty Research Seminar at University of Innsbruck, EALE annual Conference 2024, IZA Summer School 2024, the 14th International Workshop of Education Economics (IWAEE) 2024, CESifo Labor Conference 2024, UCSD phd seminar in spring 2024, CESifo/CES Workshop on the Economics of Children 2023, 1st Workshop on Education Economics and Policy (WEEP) 2023, The 61st Annual ESPE Meeting 2023.* </small>
+
+<div class="pub-note">
+<small> *Presented at CESifo Labor Conference 2026, Essen Health Economics Seminar, SOLE/EALE/AASLE 6th World Labor Conference, the Economics Faculty Research Seminar at University of Innsbruck, EALE annual Conference 2024, IZA Summer School 2024, the 14th International Workshop of Education Economics (IWAEE) 2024, CESifo Labor Conference 2024, UCSD phd seminar in spring 2024, CESifo/CES Workshop on the Economics of Children 2023, 1st Workshop on Education Economics and Policy (WEEP) 2023, The 61st Annual ESPE Meeting 2023.*
+</div>
+
+</div>
 
 
+<div class="pub-item">
+
+<div class="pub-title">
  **Linguistic Distance and the Gender Gap in Education**
-
+</div>
