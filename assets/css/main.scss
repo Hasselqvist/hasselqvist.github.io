@@ -57,3 +57,23 @@
 .pub-item {
   margin-bottom: 1.5em;
 }
+
+.pub-abstract {
+  font-size: 0.9em;
+  text-align: justify;
+  text-justify: inter-word;
+  line-height: 1.5;
+  margin-top: 0.5em;
+}
+
+.pub-note {
+  font-size: 0.8em;
+  color: #666;
+  margin-top: 0.5em;
+  line-height: 1.4;
+}
+
+details summary {
+  cursor: pointer;
+  font-size: 0.9em;
+}
