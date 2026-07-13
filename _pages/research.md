@@ -7,20 +7,34 @@ author_profile: true
 
 <h2 style="text-align: center;">Working Papers</h2>
 
+div class="pub-item">
 
+<div class="pub-title">
   
-**Life After Divorce: Effects of Joint Custody on Parents and Children**<br>
-<small>with [Stella Canessa](https://sites.google.com/view/stellacanessa/home), [Gordon B. Dahl](https://econweb.ucsd.edu/~gdahl/), [Costas Meghir](https://sites.google.com/yale.edu/costasmeghir/home), [Susan Niknami](https://sites.google.com/view/niknamisusan), [Mårten Palme](https://www.su.se/english/profiles/palme-1.181789), [Helmut Rainer](https://sites.google.com/ifo.de/hrainer/home), [Olof Rosenqvist](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Rosenqvist/), [Pengpeng Xiao](https://www.pengpengxiao.com/)</small>  <br>
-[CESifo Working Paper](https://www.ifo.de/en/cesifo/publications/2026/working-paper/life-after-divorce-effects-joint-custody-parents-and-children)<br>
+**Life After Divorce: Effects of Joint Custody on Parents and Children**
+</div>
+
+<div class="pub-authors">
+with [Stella Canessa](https://sites.google.com/view/stellacanessa/home), [Gordon B. Dahl](https://econweb.ucsd.edu/~gdahl/), [Costas Meghir](https://sites.google.com/yale.edu/costasmeghir/home), [Susan Niknami](https://sites.google.com/view/niknamisusan), [Mårten Palme](https://www.su.se/english/profiles/palme-1.181789), [Helmut Rainer](https://sites.google.com/ifo.de/hrainer/home), [Olof Rosenqvist](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Rosenqvist/), [Pengpeng Xiao](https://www.pengpengxiao.com/)
+  </div>
+
+<div class="pub-link">
+[CESifo Working Paper](https://www.ifo.de/en/cesifo/publications/2026/working-paper/life-after-divorce-effects-joint-custody-parents-and-children)
+ </div>
 <details>
   <summary><strong>Abstract</strong></summary>
-  
+
+<div class="pub-abstract">
 <div style="text-align: justify; text-justify: inter-word;">
 Custody arrangements are crucial in determining how frequently and in what way children interact with each parent after a divorce, because these potentially translate to investments in children by both parents. This paper explores the causal effects of joint versus sole custody on children's and parents' outcomes. We merge hand-collected data on more than 100,000 custody cases with several registries from Statistics Sweden to create a comprehensive administrative data set containing various child and parental outcomes measures. To identify the casual effects of joint versus sole custody, we leverage the random assignment of custody cases to judges, along with systematic differences in judges' preferences for joint versus sole custody. We demonstrate that pre-determined characteristics of parents and children are uncorrelated with the preferences of the judge handling their case, whereas judges' preferences are highly predictive of the custody ruling in individual cases. Preliminary findings from the paper indicate that shared custody (i) has significant positive effects on children's educational outcomes, (ii) increases fathers' labor market attachment and earnings, and (iii) shows no significant impact on mothers' labor market outcomes.
 </div>
 
 </details><br>
-<small>*Presented at BiB Workshop on Contemporary Challenges for Parents and Children, the CESifo Labor Conference 2025. Funded by the German Research Foundation (DFG). This project included a large data collection and digitization of records from the Swedish court system. The script to generate a data structure from text documents is publicly available [here](https://github.com/scanessa/custodyproject).* </small>
+  </div>
+
+<div class="pub-note">
+*Presented at BiB Workshop on Contemporary Challenges for Parents and Children, the CESifo Labor Conference 2025. Funded by the German Research Foundation (DFG). This project included a large data collection and digitization of records from the Swedish court system. The script to generate a data structure from text documents is publicly available <a href="https://github.com/scanessa/custodyproject">here</a>* 
+</div>
 
 
 
