@@ -15,12 +15,21 @@ div class="pub-item">
 </div>
 
 <div class="pub-authors">
-with [Stella Canessa](https://sites.google.com/view/stellacanessa/home), [Gordon B. Dahl](https://econweb.ucsd.edu/~gdahl/), [Costas Meghir](https://sites.google.com/yale.edu/costasmeghir/home), [Susan Niknami](https://sites.google.com/view/niknamisusan), [Mårten Palme](https://www.su.se/english/profiles/palme-1.181789), [Helmut Rainer](https://sites.google.com/ifo.de/hrainer/home), [Olof Rosenqvist](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Rosenqvist/), [Pengpeng Xiao](https://www.pengpengxiao.com/)
-  </div>
+with 
+<a href="https://sites.google.com/view/stellacanessa/home">Stella Canessa</a>,
+<a href="https://econweb.ucsd.edu/~gdahl/">Gordon B. Dahl</a>,
+<a href="https://sites.google.com/yale.edu/costasmeghir/home">Costas Meghir</a>,
+<a href="https://sites.google.com/view/niknamisusan">Susan Niknami</a>,
+<a href="https://www.su.se/english/profiles/palme-1.181789">Mårten Palme</a>,
+<a href="https://sites.google.com/ifo.de/hrainer/home">Helmut Rainer</a>,
+<a href="https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Rosenqvist/">Olof Rosenqvist</a>,
+<a href="https://www.pengpengxiao.com/">Pengpeng Xiao</a>
+</div>
 
 <div class="pub-link">
-[CESifo Working Paper](https://www.ifo.de/en/cesifo/publications/2026/working-paper/life-after-divorce-effects-joint-custody-parents-and-children)
- </div>
+<a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/life-after-divorce-effects-joint-custody-parents-and-children">CESifo Working Paper</a>
+</div>
+
 <details>
   <summary><strong>Abstract</strong></summary>
 
