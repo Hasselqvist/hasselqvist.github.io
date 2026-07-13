@@ -39,3 +39,21 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+
+/* Custom publication formatting */
+
+.pub-title {
+  font-size: 1.05em;
+  font-weight: 600;
+  margin-bottom: 0.2em;
+}
+
+.pub-authors,
+.pub-link {
+  font-size: 0.85em;
+}
+
+.pub-item {
+  margin-bottom: 1.5em;
+}
