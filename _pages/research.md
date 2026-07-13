@@ -81,8 +81,6 @@ Academic inequality between migrants and natives is often attributed to family d
 
 </div>
 
-<br>
-
 <div class="pub-item">
 
 <div class="pub-title">
