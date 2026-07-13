@@ -7,8 +7,10 @@ author_profile: true
 
 <h2 style="text-align: center;">Working Papers</h2>
 
+<small>
+  
 **Life After Divorce: Effects of Joint Custody on Parents and Children**<br>
-<small> with [Stella Canessa](https://sites.google.com/view/stellacanessa/home), [Gordon B. Dahl](https://econweb.ucsd.edu/~gdahl/), [Costas Meghir](https://sites.google.com/yale.edu/costasmeghir/home), [Susan Niknami](https://sites.google.com/view/niknamisusan), [Mårten Palme](https://www.su.se/english/profiles/palme-1.181789), [Helmut Rainer](https://sites.google.com/ifo.de/hrainer/home), [Olof Rosenqvist](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Rosenqvist/), [Pengpeng Xiao](https://www.pengpengxiao.com/) <small> <br>
+with [Stella Canessa](https://sites.google.com/view/stellacanessa/home), [Gordon B. Dahl](https://econweb.ucsd.edu/~gdahl/), [Costas Meghir](https://sites.google.com/yale.edu/costasmeghir/home), [Susan Niknami](https://sites.google.com/view/niknamisusan), [Mårten Palme](https://www.su.se/english/profiles/palme-1.181789), [Helmut Rainer](https://sites.google.com/ifo.de/hrainer/home), [Olof Rosenqvist](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Rosenqvist/), [Pengpeng Xiao](https://www.pengpengxiao.com/)  <br>
 [CESifo Working Paper](https://www.ifo.de/en/cesifo/publications/2026/working-paper/life-after-divorce-effects-joint-custody-parents-and-children)
 
 <details>
@@ -20,12 +22,15 @@ Custody arrangements are crucial in determining how frequently and in what way c
 
 </details>
   
-<small> *Presented at BiB Workshop on Contemporary Challenges for Parents and Children, the CESifo Labor Conference 2025. Funded by the German Research Foundation (DFG). This project included a large data collection and digitization of records from the Swedish court system. The script to generate a data structure from text documents is publicly available [here](https://github.com/scanessa/custodyproject).* <small>
+*Presented at BiB Workshop on Contemporary Challenges for Parents and Children, the CESifo Labor Conference 2025. Funded by the German Research Foundation (DFG). This project included a large data collection and digitization of records from the Swedish court system. The script to generate a data structure from text documents is publicly available [here](https://github.com/scanessa/custodyproject).* 
+
+</small>
 
 
 
 <h2 style="text-align: center;">Work in Progress</h2>
-   
+
+<small>
 **In the Shadow of Brothers: Sibling Spillovers in Migrant Families**
 
 <details>
@@ -42,3 +47,4 @@ Academic inequality between migrants and natives is often attributed to family d
  **Linguistic Distance and the Gender Gap in Education**
 
 
+</small>
