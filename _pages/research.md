@@ -8,7 +8,7 @@ author_profile: true
 <h2 style="text-align: center;">Working Papers</h2>
 
 **Life After Divorce: Effects of Joint Custody on Parents and Children**<br>
-<small> with [Stella Canessa](https://sites.google.com/view/stellacanessa/home), [Gordon B. Dahl](https://econweb.ucsd.edu/~gdahl/), [Costas Meghir](https://sites.google.com/yale.edu/costasmeghir/home), [Susan Niknami](https://sites.google.com/view/niknamisusan), [Mårten Palme](https://www.su.se/english/profiles/palme-1.181789), [Helmut Rainer](https://sites.google.com/ifo.de/hrainer/home), [Olof Rosenqvist](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Rosenqvist/), [Pengpeng Xiao](https://www.pengpengxiao.com/) <small><br>
+<small> with [Stella Canessa](https://sites.google.com/view/stellacanessa/home), [Gordon B. Dahl](https://econweb.ucsd.edu/~gdahl/), [Costas Meghir](https://sites.google.com/yale.edu/costasmeghir/home), [Susan Niknami](https://sites.google.com/view/niknamisusan), [Mårten Palme](https://www.su.se/english/profiles/palme-1.181789), [Helmut Rainer](https://sites.google.com/ifo.de/hrainer/home), [Olof Rosenqvist](https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Rosenqvist/), [Pengpeng Xiao](https://www.pengpengxiao.com/) <small> <br>
 [Paper July 2026](https://elischolar.library.yale.edu/cgi/viewcontent.cgi?article=3949&context=cowles-discussion-paper-series)
 
 <details>
