@@ -75,7 +75,7 @@ Academic inequality between migrants and natives is often attributed to family d
 
 <div class="pub-note">
 <em>
- *Presented at CESifo Labor Conference 2026, Essen Health Economics Seminar, SOLE/EALE/AASLE 6th World Labor Conference, the Economics Faculty Research Seminar at University of Innsbruck, EALE annual Conference 2024, IZA Summer School 2024, the 14th International Workshop of Education Economics (IWAEE) 2024, CESifo Labor Conference 2024, UCSD phd seminar in spring 2024, CESifo/CES Workshop on the Economics of Children 2023, 1st Workshop on Education Economics and Policy (WEEP) 2023, The 61st Annual ESPE Meeting 2023.*
+Presented at CESifo Labor Conference 2026, Essen Health Economics Seminar, SOLE/EALE/AASLE 6th World Labor Conference, the Economics Faculty Research Seminar at University of Innsbruck, EALE annual Conference 2024, IZA Summer School 2024, the 14th International Workshop of Education Economics (IWAEE) 2024, CESifo Labor Conference 2024, UCSD phd seminar in spring 2024, CESifo/CES Workshop on the Economics of Children 2023, 1st Workshop on Education Economics and Policy (WEEP) 2023, The 61st Annual ESPE Meeting 2023.
 </em>
 </div>
 
