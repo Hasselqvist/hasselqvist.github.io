@@ -86,3 +86,5 @@ Presented at CESifo Labor Conference 2026, Essen Health Economics Seminar, SOLE/
 <div class="pub-title">
  Linguistic Distance and the Gender Gap in Education
 </div>
+
+</div>
