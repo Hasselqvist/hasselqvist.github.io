@@ -27,7 +27,7 @@ with
 
 <div class="pub-link">
 <a href="https://www.ifo.de/DocDL/cesifo1_wp12822.pdf">
-**[CESifo Working Paper]**
+[CESifo Working Paper]
 </a>
 </div>
 
