@@ -26,8 +26,8 @@ with
 </div>
 
 <div class="pub-link">
-<a href="https://www.ifo.de/en/cesifo/publications/2026/working-paper/life-after-divorce-effects-joint-custody-parents-and-children">
-CESifo Working Paper
+<a href="https://www.ifo.de/DocDL/cesifo1_wp12822.pdf">
+**[CESifo Working Paper]**
 </a>
 </div>
 
