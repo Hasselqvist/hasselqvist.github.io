@@ -26,8 +26,8 @@ with
 </div>
 
 <div class="pub-link">
-<a href="https://www.ifo.de/DocDL/cesifo1_wp12822.pdf">
-[CESifo Working Paper]
+<a href="https://www.nber.org/papers/w35482">
+[Working Paper]
 </a>
 </div>
 
