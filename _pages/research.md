@@ -26,7 +26,7 @@ with
 </div>
 
 <div class="pub-link">
-<a href="https://www.nber.org/papers/w35482">
+<a href="https://www.nber.org/system/files/working_papers/w35482/w35482.pdf">
 [Working Paper]
 </a>
 </div>
