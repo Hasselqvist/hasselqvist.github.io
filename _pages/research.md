@@ -54,8 +54,6 @@ Presented at BiB Workshop on Contemporary Challenges for Parents and Children, t
 
 </div>
 
-
-<h2 style="text-align: center;">Work in Progress</h2>
 <div class="pub-item">
 
 <div class="pub-title">
@@ -80,6 +78,9 @@ Presented at CESifo Labor Conference 2026, Essen Health Economics Seminar, SOLE/
 </div>
 
 </div>
+
+<h2 style="text-align: center;">Work in Progress</h2>
+
 
 <div class="pub-item">
 
