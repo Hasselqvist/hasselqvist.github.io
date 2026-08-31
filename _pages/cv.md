@@ -39,11 +39,11 @@ Sept 2025 -- Postoctoral Researcher, <a href="https://www.diw.de/en/diw_01.c.914
 <h3><strong>Affiliations</strong></h3>
 
 <div class="pub-item">
-Sept 2025 -- <a href="https://www.uni-potsdam.de/de/cepa/welcome-to-cepa" target="_blank" rel="noopener noreferrer">CEPA, University of Potsdam</a>
+Sept 2025 -- Senior Research Fellow, <a href="https://www.uni-potsdam.de/de/cepa/welcome-to-cepa" target="_blank" rel="noopener noreferrer">CEPA, University of Potsdam</a>
 </div>
 
 <div class="pub-item">
-Sept 2025 -- <a href="https://berlinschoolofeconomics.de/home" target="_blank" rel="noopener noreferrer">Berlin School of Economics</a>
+Sept 2025 -- Research Associate, <a href="https://berlinschoolofeconomics.de/home" target="_blank" rel="noopener noreferrer">Berlin School of Economics</a>
 </div>
 
 <h3><strong>Research Visits</strong></h3>
