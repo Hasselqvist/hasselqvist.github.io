@@ -60,7 +60,7 @@ In the Shadow of Brothers: Sibling Spillovers in Migrant Families
 </div>
 
 <div class="pub-link">
-<a href="[https://diw.de/documents/publikationen/73/diw_01.c.1017975.de/dp2178.pdf">
+<a href="https://diw.de/documents/publikationen/73/diw_01.c.1017975.de/dp2178.pdf">
 [Working Paper]
 </a>
 </div>
