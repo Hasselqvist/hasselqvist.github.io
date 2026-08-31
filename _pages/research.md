@@ -15,18 +15,18 @@ Life After Divorce: Effects of Joint Custody on Parents and Children
 
 <div class="pub-authors">
 with 
-<a href="https://sites.google.com/view/stellacanessa/home">Stella Canessa</a>,
-<a href="https://econweb.ucsd.edu/~gdahl/">Gordon B. Dahl</a>,
-<a href="https://sites.google.com/yale.edu/costasmeghir/home">Costas Meghir</a>,
-<a href="https://sites.google.com/view/niknamisusan">Susan Niknami</a>,
-<a href="https://www.su.se/english/profiles/palme-1.181789">Mårten Palme</a>,
-<a href="https://sites.google.com/ifo.de/hrainer/home">Helmut Rainer</a>,
-<a href="https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Rosenqvist/">Olof Rosenqvist</a>,
-<a href="https://www.pengpengxiao.com/">Pengpeng Xiao</a>
+<a href="https://sites.google.com/view/stellacanessa/home" target="_blank" rel="noopener noreferrer">Stella Canessa</a>,
+<a href="https://econweb.ucsd.edu/~gdahl/" target="_blank" rel="noopener noreferrer">Gordon B. Dahl</a>,
+<a href="https://sites.google.com/yale.edu/costasmeghir/home" target="_blank" rel="noopener noreferrer">Costas Meghir</a>,
+<a href="https://sites.google.com/view/niknamisusan" target="_blank" rel="noopener noreferrer">Susan Niknami</a>,
+<a href="https://www.su.se/english/profiles/palme-1.181789" target="_blank" rel="noopener noreferrer">Mårten Palme</a>,
+<a href="https://sites.google.com/ifo.de/hrainer/home" target="_blank" rel="noopener noreferrer">Helmut Rainer</a>,
+<a href="https://www.ifau.se/en/About-IFAU/Personnel/Researchers-Research-Officers/Olof-Rosenqvist/" target="_blank" rel="noopener noreferrer">Olof Rosenqvist</a>,
+<a href="https://www.pengpengxiao.com/" target="_blank" rel="noopener noreferrer">Pengpeng Xiao</a>
 </div>
 
 <div class="pub-link">
-<a href="https://www.nber.org/system/files/working_papers/w35482/w35482.pdf">
+<a href="https://www.nber.org/system/files/working_papers/w35482/w35482.pdf" target="_blank" rel="noopener noreferrer">
 [Working Paper]
 </a>
 </div>
@@ -47,7 +47,7 @@ Divorce reshapes family life, yet little is known about one of its most conseque
 <div class="pub-note">
 <em>
 Presented at BiB Workshop on Contemporary Challenges for Parents and Children, the CESifo Labor Conference 2025. Funded by the German Research Foundation (DFG). This project included a large data collection and digitization of records from the Swedish court system. The script to generate a data structure from text documents is publicly available 
-<a href="https://github.com/scanessa/custodyproject">here</a>.
+<a href="https://github.com/scanessa/custodyproject" target="_blank" rel="noopener noreferrer">here</a>.
 </em>
 </div>
 
@@ -60,7 +60,7 @@ In the Shadow of Brothers: Sibling Spillovers in Migrant Families
 </div>
 
 <div class="pub-link">
-<a href="https://diw.de/documents/publikationen/73/diw_01.c.1017975.de/dp2178.pdf">
+<a href="https://diw.de/documents/publikationen/73/diw_01.c.1017975.de/dp2178.pdf" target="_blank" rel="noopener noreferrer">
 [Working Paper]
 </a>
 </div>
@@ -71,7 +71,7 @@ In the Shadow of Brothers: Sibling Spillovers in Migrant Families
 
 <div class="pub-abstract">
   
-Academic inequality between migrants and natives is often attributed to family dynamics that are difficult to observe. Siblings provide a way to study them: I estimate the effect of having a high-achieving sibling on the educational outcomes of children in migrant and native families. Using exogenous variation in sibling achievement from Sweden’s school-entry cutoff in a Regression Discontinuity Design, I show that second-generation migrant girls face a unique disadvantage. A high-achieving brother lowers their grades, while a high-achieving sister has a small positive influence. Spillover effects are negligible for boys and native children regardless of sibling gender. Heterogeneity analysis suggests that traditional cultural norms contributes to this disadvantage, and parental labor market integration substantially attenuates it.
+Academic inequality between migrants and natives is often attributed to family dynamics that are difficult to observe. Siblings provide a way to study them: I estimate the effect of having a high-achieving sibling on the educational outcomes of children in migrant and native families. Using exogenous variation in sibling achievement from Sweden's school-entry cutoff in a Regression Discontinuity Design, I show that second-generation migrant girls face a unique disadvantage. A high-achieving brother lowers their grades, while a high-achieving sister has a small positive influence. Spillover effects are negligible for boys and native children regardless of sibling gender. Heterogeneity analysis suggests that traditional cultural norms contributes to this disadvantage, and parental labor market integration substantially attenuates it.
 
 </div>
 
