@@ -10,7 +10,7 @@ redirect_from:
 
 <div style="font-size: 0.9em;">
 
-<p style="text-align: center;"><strong><a href="https://drive.google.com/file/d/1uVRrS__irDe1SZXT1sMcXV-tvXk6DAto/view?usp=drive_link" target="_blank" rel="noopener noreferrer">View full CV here</a></strong></p>
+<p style="text-align: center;"><strong><a href="https://drive.google.com/drive/my-drive?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto" target="_blank" rel="noopener noreferrer">View full CV here</a></strong></p>
 
 <h3><strong>Academic Positions</strong></h3>
 
